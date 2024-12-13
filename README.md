@@ -55,7 +55,7 @@ Following inferences can be drawn from the dashboard;
 	The loss making months in the whole year was may, july, september,december.	
 	
 ### [2] First Quarter
-    	Overall Profit in the first quarter was -26k
+    Overall Profit in the first quarter was -26k
 	Overall average order value was - 44k
 	Total quantity of orders sold was - 2008
 	Sum of amount earned in the first quarter - 161k
@@ -67,7 +67,7 @@ Following inferences can be drawn from the dashboard;
   
   ### [3] Second Quarter
   
-    	Overall Profit in the second quarter was -882
+    Overall Profit in the second quarter was -882
 	Overall average order value was - 24k
 	Total quantity of orders sold was - 1181
 	Sum of amount earned second quarter - 87k
